@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scholiaterentian00schluoft_0186.png"; bbox 0 0 1681 2576; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 58 41 1602 207">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 58 41 1602 207">
+     <span class='ocr_line' id='line_1_1' title="bbox 58 41 1602 125; baseline -0.025 -9"><span class='ocrx_word' id='word_1_1' title='bbox 58 60 117 119; x_wconf 55' lang='grc' dir='ltr'><em>ἦ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 154 55 225 118; x_wconf 55' lang='lat' dir='ltr'><em>sl*</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 234 90 316 118; x_wconf 59' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 339 58 436 109; x_wconf 57' lang='grc' dir='ltr'><em>ΓΑ.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 459 58 638 103; x_wconf 59' lang='lat' dir='ltr'><em>masa</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 675 41 1210 125; x_wconf 47' lang='lat' dir='ltr'><em>samfflmwaasafh</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1229 43 1602 116; x_wconf 52' lang='lat' dir='ltr'><em>wmffiss„</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 84 124 1354 207; baseline -0.009 -16"><span class='ocrx_word' id='word_1_8' title='bbox 84 176 186 191; x_wconf 39' lang='grc' dir='ltr'><em>μ</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 237 152 621 199; x_wconf 48' lang='lat' dir='ltr'><em>mamam.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 658 141 744 207; x_wconf 61' lang='lat' dir='ltr'><em>sc».</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 772 124 1354 192; x_wconf 41' lang='grc' dir='ltr'><em>ὠψχχόάβιᾼεβίί]</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
